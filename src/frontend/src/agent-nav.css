@@ -1,0 +1,10 @@
+.nav-new {
+  margin-left: auto;
+  padding: 2px 6px;
+  border-radius: 10px;
+  background: #7f35e7;
+  color: #fff;
+  font-size: 7px;
+  font-weight: 800;
+  letter-spacing: .04em;
+}
