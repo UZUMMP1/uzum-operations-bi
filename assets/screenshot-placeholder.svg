@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Dashboard screenshot placeholder">
+  <rect width="1200" height="675" fill="#f4f7fb"/>
+  <rect x="70" y="70" width="1060" height="535" rx="24" fill="#ffffff" stroke="#c9d5e5" stroke-width="4" stroke-dasharray="14 12"/>
+  <text x="600" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#20324d">Anonymized Dashboard Screenshot</text>
+  <text x="600" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" fill="#607089">Replace this file before publishing the final portfolio</text>
+</svg>
