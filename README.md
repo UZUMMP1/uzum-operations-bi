@@ -5,8 +5,6 @@ An AI-assisted business intelligence dashboard for daily e-commerce operations, 
 > **Portfolio Project**  
 > All public data and examples in this repository are anonymized or recreated. The original production repository remains private.
 
-**Live Demo:** [UZUM Operations BI](https://uzum-bi-production.up.railway.app/)
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
